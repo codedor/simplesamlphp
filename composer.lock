@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "af212b04efe5a5978f646bbc25c03cfc",
+    "content-hash": "95c24f6734c9e8a2a62232fc863eea82",
     "packages": [
         {
             "name": "gettext/gettext",
@@ -4702,16 +4702,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-test-framework",
-            "version": "v0.1.8",
+            "version": "v0.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-test-framework.git",
-                "reference": "7e12883bad87c502295a5097d51a463078fc3dc8"
+                "reference": "cc86116dd5fa1c16c08cd60665a1b2d89cdaae7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-test-framework/zipball/7e12883bad87c502295a5097d51a463078fc3dc8",
-                "reference": "7e12883bad87c502295a5097d51a463078fc3dc8",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-test-framework/zipball/cc86116dd5fa1c16c08cd60665a1b2d89cdaae7a",
+                "reference": "cc86116dd5fa1c16c08cd60665a1b2d89cdaae7a",
                 "shasum": ""
             },
             "require": {
@@ -4751,7 +4751,7 @@
             "keywords": [
                 "test-framework"
             ],
-            "time": "2020-05-05T14:30:11+00:00"
+            "time": "2020-05-16T15:25:57+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
